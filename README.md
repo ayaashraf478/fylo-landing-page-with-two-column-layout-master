@@ -18,4 +18,4 @@ A responsive and user-friendly template built with 𝗰𝗹𝗲𝗮𝗻 𝗖𝗦
 ◼️ Marketers & product owners: an ideal landing page to build trust and capture leads.
 ◼️ Students & learners: a solid portfolio project to show responsive design skills.
 
-
+look at website Demo here:https://ayaashraf478.github.io/fylo-landing-page-with-two-column-layout-master/
